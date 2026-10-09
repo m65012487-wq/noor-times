@@ -10,13 +10,15 @@ from __future__ import annotations
 import sys
 import traceback
 
-from . import build_index, dagestan, kbr, moscow, tatarstan
+from . import build_index, dagestan, kbr, moscow, tatarstan, world
 
 COLLECTORS = {
     'kbr': kbr.collect,
     'tatarstan': tatarstan.collect,
     'dagestan': dagestan.collect,
     'moscow': moscow.collect,
+    'singapore': world.singapore,
+    'kazakhstan': world.kazakhstan,
 }
 
 

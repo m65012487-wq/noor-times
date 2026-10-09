@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-10-09T07:25:24Z",
+ "generated": "2026-10-09T07:32:22Z",
  "authorities": [
   {
    "id": "ru-kbr",
@@ -1669,6 +1669,560 @@
        "start": "2026-10-01",
        "days": 61,
        "hash": "e41ab3f9cc436d7c9fb28cb340a63cc1dc423e8a"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sg-muis",
+   "name": "MUIS (Сингапур)",
+   "name_en": "Majlis Ugama Islam Singapura",
+   "country": "SG",
+   "regions": [],
+   "utcOffset": 480,
+   "fallback": {
+    "kind": "aladhan",
+    "method": 11,
+    "school": "shafi"
+   },
+   "source": "https://data.gov.sg/collections/2312/view",
+   "places": [
+    {
+     "id": "singapore",
+     "name": "Сингапур",
+     "lat": 1.3521,
+     "lng": 103.8198,
+     "radiusKm": 40,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "sg-muis/singapore/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "248cc5c41f8c858428f053c3408812c49b6b60d7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kz-dumk",
+   "name": "ДУМК (Казахстан)",
+   "name_en": "Spiritual Administration of Muslims of Kazakhstan",
+   "country": "KZ",
+   "regions": [],
+   "utcOffset": 300,
+   "fallback": {
+    "kind": "aladhan",
+    "method": 14,
+    "school": "hanafi"
+   },
+   "source": "https://api.muftyat.kz/",
+   "places": [
+    {
+     "id": "astana",
+     "name": "Астана",
+     "lat": 51.1333,
+     "lng": 71.4333,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/astana/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "1e436d9fee64a4ce926a43794c064810e1fb2dd0"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/astana/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "b966d4c178ebb36f26ccf1f993f2fb113dd411c4"
+      }
+     ]
+    },
+    {
+     "id": "almaty",
+     "name": "Алматы",
+     "lat": 43.2383,
+     "lng": 76.9455,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/almaty/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "816de3014796fabe6c6a5416c74c8c7b5dbd42a2"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/almaty/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "afdae90d0efcb56f5433ea604d53d725bfe48824"
+      }
+     ]
+    },
+    {
+     "id": "shymkent",
+     "name": "Шымкент",
+     "lat": 42.368,
+     "lng": 69.6128,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/shymkent/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "4b202a94725e076f74841acf7a19640c8a1ab1c6"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/shymkent/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "30398e4a4e74d2a393961e6f7db158b5a63ec3cc"
+      }
+     ]
+    },
+    {
+     "id": "karaganda",
+     "name": "Караганда",
+     "lat": 49.8064,
+     "lng": 73.0855,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/karaganda/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "797d52b86df6f69c4d29ad476be021640eeb2c58"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/karaganda/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "b844335b37f59c11e06f8829412837b5c2cda675"
+      }
+     ]
+    },
+    {
+     "id": "aktobe",
+     "name": "Актобе",
+     "lat": 50.3004,
+     "lng": 57.1546,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/aktobe/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "32e783d87c16e2fcdb235060e7f7df4a3642ab75"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/aktobe/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "2fe8b3b65d9de8bff66e63ed90b02181e4122853"
+      }
+     ]
+    },
+    {
+     "id": "taraz",
+     "name": "Тараз",
+     "lat": 42.8833,
+     "lng": 71.3667,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/taraz/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "d86da35d5e943612fbc84cb8b85ce18a0cdd493f"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/taraz/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "e466759e25a665bcab062a0f4f9e009c14a81709"
+      }
+     ]
+    },
+    {
+     "id": "pavlodar",
+     "name": "Павлодар",
+     "lat": 52.3156,
+     "lng": 76.9564,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/pavlodar/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "fd6a0594dc3339f9b703f0d0238b742f8f1447f0"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/pavlodar/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "8e1987c397a7fc5d665381523558be8f4c3bf2b8"
+      }
+     ]
+    },
+    {
+     "id": "oskemen",
+     "name": "Усть-Каменогорск",
+     "lat": 49.9483,
+     "lng": 82.6278,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/oskemen/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "5726daac0dea37eef05ccf6b920c789de5f9f8f6"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/oskemen/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "625e4a64c763efae2e781918096cca19d9473c29"
+      }
+     ]
+    },
+    {
+     "id": "semey",
+     "name": "Семей",
+     "lat": 50.405,
+     "lng": 80.2492,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/semey/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "9830b78924bde1864ce12391da7ecd9952561f44"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/semey/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "727f979b2be3a90aff7f66526bd73108ebbc5152"
+      }
+     ]
+    },
+    {
+     "id": "atyrau",
+     "name": "Атырау",
+     "lat": 47.1167,
+     "lng": 51.8833,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/atyrau/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "e5d8468c36b707904da962ab424e6ac449afbf15"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/atyrau/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "6821c79600930399065a9f74b82a1c2e0d5b792f"
+      }
+     ]
+    },
+    {
+     "id": "kostanay",
+     "name": "Костанай",
+     "lat": 53.2193,
+     "lng": 63.6342,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/kostanay/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "566b36698290cc59cd1a7cbecc68b8209e8a7510"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/kostanay/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "d0380f579b7e927b4f32041d2480cd98df00e9f1"
+      }
+     ]
+    },
+    {
+     "id": "kyzylorda",
+     "name": "Кызылорда",
+     "lat": 44.8425,
+     "lng": 65.5026,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/kyzylorda/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "fad3e3e6d78544d962097899f58a22a0dd3efd1a"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/kyzylorda/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "60827a2739478973ce465b25c8755ef9b107dae4"
+      }
+     ]
+    },
+    {
+     "id": "oral",
+     "name": "Уральск",
+     "lat": 51.204,
+     "lng": 51.3705,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/oral/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "fe1872ed964844121ca026bca00f8de3773fc89b"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/oral/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "f3612cc3e7cd81b6b10560a09be1265c709d5ac0"
+      }
+     ]
+    },
+    {
+     "id": "petropavl",
+     "name": "Петропавловск",
+     "lat": 54.8622,
+     "lng": 69.1408,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/petropavl/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "8f37fa777db7ccc85fb6ae3d45a60658860d62fb"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/petropavl/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "1f93e12434e3fec5cb3bf2b51c993f9c246b8613"
+      }
+     ]
+    },
+    {
+     "id": "aktau",
+     "name": "Актау",
+     "lat": 43.6354,
+     "lng": 51.1691,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/aktau/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "81eeb0dc1e678fb8cfb84901694b1bd6b0cc3f1a"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/aktau/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "fce7d952940c8a6ad14230d0a58f36bc8c20d7b6"
+      }
+     ]
+    },
+    {
+     "id": "turkistan",
+     "name": "Туркестан",
+     "lat": 43.302,
+     "lng": 68.269,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/turkistan/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "4130154b0d96f615900527cbe601a3cad25e957a"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/turkistan/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "3715d6af49ea91a514d74fab5e3fef8cad8fea74"
+      }
+     ]
+    },
+    {
+     "id": "kokshetau",
+     "name": "Кокшетау",
+     "lat": 53.2917,
+     "lng": 69.3917,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/kokshetau/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "9b82076380fb74a5e242b702174dbf2150035ec6"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/kokshetau/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "fce5a81e1df924ef98dce441344a7ad70cb4d8c9"
+      }
+     ]
+    },
+    {
+     "id": "taldykorgan",
+     "name": "Талдыкорган",
+     "lat": 45.0178,
+     "lng": 78.3821,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/taldykorgan/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "4295a2fd2c7889e212559a717805ea05517d6bb6"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/taldykorgan/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "16051e480de262c122fd0f9211e2dc01bca66b69"
+      }
+     ]
+    },
+    {
+     "id": "zhezkazgan",
+     "name": "Жезказган",
+     "lat": 47.7997,
+     "lng": 67.7141,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/zhezkazgan/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "da86eab092b1208b0cb5f78dfc6e8cc15c48d337"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/zhezkazgan/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "99089effe5db97bfc1f5ebdcb69b20227d34eb1a"
+      }
+     ]
+    },
+    {
+     "id": "ekibastuz",
+     "name": "Экибастуз",
+     "lat": 51.7298,
+     "lng": 75.3266,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/ekibastuz/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "1057888440ba2b36f77727127a343f876885a180"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/ekibastuz/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "befe897d66645abc061ce78076080c2ac99d915b"
+      }
+     ]
+    },
+    {
+     "id": "temirtau",
+     "name": "Темиртау",
+     "lat": 50.0588,
+     "lng": 72.9534,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/temirtau/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "f6b352979ba547984dfdabfe4a5b08f30f7e5611"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/temirtau/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "c6d801abe9283daee4074e3e9a7fc5088682c081"
+      }
+     ]
+    },
+    {
+     "id": "konaev",
+     "name": "Конаев",
+     "lat": 43.8833,
+     "lng": 77.0833,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "kz-dumk/konaev/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "50d90572eee5f99c40df0dcf43545a6dbf1dbcc6"
+      },
+      {
+       "year": 2027,
+       "path": "kz-dumk/konaev/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "41c040d6aa2e429bda47df2b48c94579c80ba85f"
       }
      ]
     }

@@ -215,10 +215,11 @@ def repair_days(days: list[list[str]], *, start: dt.date, jumps: dict | None = N
 def write_json(path: pathlib.Path, data) -> bool:
     """Пишет JSON, только если содержимое изменилось. Возвращает True при записи."""
     text = json.dumps(data, ensure_ascii=False, indent=1) + '\n'
-    if path.exists() and path.read_text(encoding='utf-8') == text:
+    if path.exists() and path.read_bytes() == text.encode('utf-8'):
         return False
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(text, encoding='utf-8')
+    # Только LF: хеш файла попадает в индекс и должен совпадать на любой ОС.
+    path.write_bytes(text.encode('utf-8'))
     return True
 
 

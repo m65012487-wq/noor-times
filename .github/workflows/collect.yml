@@ -25,7 +25,11 @@ jobs:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
+      # Ветка, а не коммит запуска: запуск по расписанию или вручную мог
+      # встать в очередь за другим, который уже дописал данные.
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v5
         with:
@@ -51,6 +55,7 @@ jobs:
           git add site
           if ! git diff --cached --quiet; then
             git commit -m "Графики: обновление $(date -u +%F)"
+            git pull --rebase origin "${{ github.ref_name }}"
             git push
           fi
 
