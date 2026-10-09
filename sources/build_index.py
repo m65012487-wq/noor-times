@@ -31,7 +31,11 @@ def build() -> dict:
                     'days': len(table['days']),
                     'hash': common.sha1_file(path),
                 })
-            places.append({**{k: v for k, v in place.items() if k not in PRIVATE}, 'tables': tables})
+            # Пункт без таблиц (календарь не прошёл проверку) в индекс не идёт:
+            # иначе приложение выбрало бы его как ближайший и ушло на метод,
+            # хотя в 40 км есть таблица соседнего пункта.
+            if tables:
+                places.append({**{k: v for k, v in place.items() if k not in PRIVATE}, 'tables': tables})
         authorities.append({**{k: v for k, v in auth.items() if k != 'places'}, 'places': places})
     return {'v': 1, 'authorities': authorities}
 
