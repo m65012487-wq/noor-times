@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-10-09T07:20:59Z",
+ "generated": "2026-10-09T07:25:24Z",
  "authorities": [
   {
    "id": "ru-kbr",
@@ -29,7 +29,7 @@
        "path": "ru-kbr/kbr/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "50c74e55d7b2596aba7d7ed499524f93fe2d7c28"
+       "hash": "379f3962dfe0e454be31d54c5414ec492bd957bb"
       }
      ]
     }
@@ -64,14 +64,14 @@
        "path": "ru-tatarstan/agryz/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "7bdbc3cdb3d578b7e671e10288026d11a3c85078"
+       "hash": "54176367f3ff16e3caf606c4edb82687be622b50"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/agryz/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "c23f2aef8704df4c9073c53490509009ef51f35b"
+       "hash": "0c2969b0ce298d3ef819a2d0f30bf6642c289da9"
       }
      ]
     },
@@ -87,14 +87,14 @@
        "path": "ru-tatarstan/aznakaevo/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "120b36fff37c4653299201e005d65b14255d63fe"
+       "hash": "39b141151b426f8db7229765a295b639fd534ef3"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/aznakaevo/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "a40e9cd563dfad350ae3cf8bf293e5c933bfa764"
+       "hash": "4e11e5bbbfc7e5d6104a2374651fa3e8c1f8dafd"
       }
      ]
     },
@@ -110,14 +110,14 @@
        "path": "ru-tatarstan/aksubaevo/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "2aed7ac6f6a0b76a0d1eb8f2107097813640444f"
+       "hash": "126cc10caef059d01f83022319931fa229e8cfc1"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/aksubaevo/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "d3426a1dcae7254ed27382352f25b1c2f0827fcb"
+       "hash": "46c64f8164b074ab8f2b3ab35181d29502b43e30"
       }
      ]
     },
@@ -133,14 +133,14 @@
        "path": "ru-tatarstan/aktanysh/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "e05aba19e311b6b9760806743b1c27f6ef98f06a"
+       "hash": "a7a1009930ab21fe10c911ffa7ac0499e2763a60"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/aktanysh/2026.json",
        "start": "2026-01-02",
        "days": 364,
-       "hash": "564d153fe331e2bd3d3910323e021750326c3f39"
+       "hash": "e4891876060e03837801741c9cfa493d470fa6cc"
       }
      ]
     },
@@ -156,14 +156,14 @@
        "path": "ru-tatarstan/alekseevskoe/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "2282ebb09fdada2951372396a5f2e16d821255e9"
+       "hash": "1ce7187309ba28186a863f44191e9f1990b44004"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/alekseevskoe/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "21dbbc3668be603cf09bb06ab685a318e36b0b8a"
+       "hash": "43aa3f59f7b69153b6ffe492a40aafc36935361f"
       }
      ]
     },
@@ -179,14 +179,14 @@
        "path": "ru-tatarstan/almetyevsk/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "fb5ab7f77f7fea17e9788920e85338b0ca04ab71"
+       "hash": "eb8a5a57eb43bf2faa5770d562c2023b88edfbdf"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/almetyevsk/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "590701a9b4f845352169b1a4a90b332eac709cfd"
+       "hash": "69a08b5e93e3bc9e47b103f5b0d110742dbc023b"
       }
      ]
     },
@@ -202,14 +202,14 @@
        "path": "ru-tatarstan/apastovo/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "38449085165f54f227f6752256736e4d04150557"
+       "hash": "1fec5858df89813253e07b3e6592219d5848616d"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/apastovo/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "a94ea20e494a1db94443072f9c6e90b7a34de8e7"
+       "hash": "5d55f479d629e64ea58deffb1695cc891868b7b9"
       }
      ]
     },
@@ -225,14 +225,14 @@
        "path": "ru-tatarstan/arsk/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "c489e6ce58040facb39d5184fd19801c3da25bde"
+       "hash": "ac26833be96538303251c1d9652453d03e2bb639"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/arsk/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "23e310d0ae544d7f0a4b59d358d6d7c15c516ec1"
+       "hash": "1f4e8c8787e638c7a8eb3ba15933ed66b888e2ef"
       }
      ]
     },
@@ -248,14 +248,14 @@
        "path": "ru-tatarstan/bavly/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "414bc91b4d8aa4d40aa91859211a7ed327e0ab9b"
+       "hash": "2c2d60166f4ec350bd801f41c242ee4597f0439e"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/bavly/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "7f6636a223c1db82d2bc221666544c19e0566390"
+       "hash": "12f24c546dc24945309df311329ee6cf537ba758"
       }
      ]
     },
@@ -271,14 +271,14 @@
        "path": "ru-tatarstan/bazarnye-mataki/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "b01781afbc4ed63df46148d05b4d972f30c288c1"
+       "hash": "eebb3ffa864d0a7f1d516d5a691aebe8dbbeca36"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/bazarnye-mataki/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "acc38f9512b50530f7cc3fb3b7477e2ea48678fc"
+       "hash": "d4b557ae9f3e4cf5a18bb8e562970c9e3ad1f2e4"
       }
      ]
     },
@@ -294,14 +294,14 @@
        "path": "ru-tatarstan/baltasi/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "acfbb0c23ff0a049352e1388da317d1636594e0d"
+       "hash": "70608b5bebc9f31ab84efff9bdcbdd512581288f"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/baltasi/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "829945cc0f6c01c741f42302664956c37d0fa33a"
+       "hash": "d522e2a0acced4dc788a134030e8b063fff267f0"
       }
      ]
     },
@@ -317,14 +317,14 @@
        "path": "ru-tatarstan/bogatye-saby/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "9627dc77042fa03d1a998788a1c090e3223c4d54"
+       "hash": "f3f6f894b0ba3c8ae875d4eb34abad4afd530739"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/bogatye-saby/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "8c79302cbd1387306fea93dd009e49a0c06eccc7"
+       "hash": "2fbd2e2fc530b0e48bee0de25b7e49fe45d004d3"
       }
      ]
     },
@@ -340,14 +340,14 @@
        "path": "ru-tatarstan/bolgar/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "1e9893b03bb861b1b6545dea8f860fc07d6e9a29"
+       "hash": "69ecb070c366a306b70e57617da2808500feb1c6"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/bolgar/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "b3bef36b8d37811dd26ddb72174358a1e7be19c7"
+       "hash": "b87203ab44bb526436429e973a62028ca85897e4"
       }
      ]
     },
@@ -363,14 +363,14 @@
        "path": "ru-tatarstan/bolshaya-atnya/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "a11975901d796159f9fdbf11e8ce42fbb698a445"
+       "hash": "f19e74c226aec8758a41ebe1ad1c73c64ed6dbd5"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/bolshaya-atnya/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "e96fabd77906d5a586b87757b0932d313fa1b694"
+       "hash": "75fc658681152b550d6cad176dd92a68c8c3d9a8"
       }
      ]
     },
@@ -386,14 +386,14 @@
        "path": "ru-tatarstan/bolshie-kaybitsy/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "76659e370a5053da8d90ecd096a76d2bad908ba8"
+       "hash": "3750f07d52645a246628bfcb3941789bfd89452e"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/bolshie-kaybitsy/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "ba005f8e53873a6a5c01813f7ce44e9f1f93cb7d"
+       "hash": "d2b8cf2c10c486b62536f4afbbe88420ff91b965"
       }
      ]
     },
@@ -409,14 +409,14 @@
        "path": "ru-tatarstan/bugulma/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "a53e3e3f548bb65e73c8a7774fe928b821476c9c"
+       "hash": "c5e388da00622a46367af39c42a14dae14dd8579"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/bugulma/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "898ebfcc9da239d707dac7cd3589aaa82f87f5d7"
+       "hash": "079ac56c9925c302f4d7de610a28857b231d954b"
       }
      ]
     },
@@ -432,14 +432,14 @@
        "path": "ru-tatarstan/buinsk/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "b87b9ca337b7d465f4670a3cafbbc2f0cf9aebe9"
+       "hash": "8a47cd7e46b1a2d7a4a32099836d20bfeba3fd0e"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/buinsk/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "32b6744cd0e2f83576d8908e566cb3e48a64b0db"
+       "hash": "0ff8d2e0bd4fcddf7f7e1106decaaf967413b6db"
       }
      ]
     },
@@ -455,14 +455,14 @@
        "path": "ru-tatarstan/verkhniy-uslon/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "e98a623f8d91d999aea1261e8d7a5a3e88dd98e8"
+       "hash": "d8db68f6a84b8ea776abadb27dd0d30291478a4d"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/verkhniy-uslon/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "f12f0b5cc0151d2c8adae659211b2dcd09e6a172"
+       "hash": "b1fb959ab3b6d5dcebe01e43f2dbaa87c7d6cc99"
       }
      ]
     },
@@ -478,14 +478,14 @@
        "path": "ru-tatarstan/vysokaya-gora/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "ddc5ef0263205fccf26dc82d6902120cee8043e6"
+       "hash": "9bdd0c1ddb7d49e3e0bd8d9074127eb3cf703dec"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/vysokaya-gora/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "ad594dae017e23db1e9d67aee2444d30fe060089"
+       "hash": "fc118a3886356cc5b0933b8f0a6d3aabe6ce657e"
       }
      ]
     },
@@ -501,14 +501,14 @@
        "path": "ru-tatarstan/elabuga/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "53c2af6fe54174a6a3dcac950fbcfee47ff8904c"
+       "hash": "7b3e2fa59280d29fdc06c5ba73f68c6cfb74582f"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/elabuga/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "26f2157aad387fcd6de9eb7d19a753e7b7689361"
+       "hash": "0a511f66cfe0591f514d5cc25a44d7d44c56fa83"
       }
      ]
     },
@@ -524,14 +524,14 @@
        "path": "ru-tatarstan/zainsk/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "889dc7c85e075f17fc034421144d987750063289"
+       "hash": "7db3cfc2398572d436f56a7ab7b9b11321a6fb2c"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/zainsk/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "bc92e972cd83ea5702b2021ea3269deca6da2047"
+       "hash": "63a70712a1dace26ec10effd5279ce4de1634643"
       }
      ]
     },
@@ -547,14 +547,14 @@
        "path": "ru-tatarstan/zelenodolsk/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "0a746b1bd8c10f2b24e5a77f5fe992ad1d06f51d"
+       "hash": "a221ea637ee77eea81eb91e6db7bae465e21f29f"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/zelenodolsk/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "9be7eec87fffb0acd7e640273567d860860f89e4"
+       "hash": "c102d91f4c5edb48d09dde8865e196a240e5f458"
       }
      ]
     },
@@ -570,14 +570,14 @@
        "path": "ru-tatarstan/kazan/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "10bdbbabd63662849eb580f94f015b9decbb7e9d"
+       "hash": "64aaaec00eaa06afe11ba78e49a6cceb114dc870"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/kazan/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "14a6b9f7f3f63f0944a0c70525d05643b18b74ff"
+       "hash": "3c2061567e99a6e800bd87f6fdfc247d9089ef23"
       }
      ]
     },
@@ -593,14 +593,14 @@
        "path": "ru-tatarstan/kamskoe-ustye/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "dbba150dcb1a6d7be02a7af24cba499e993ff80f"
+       "hash": "659c86a9ea82719ec51f730aba7406fba621d846"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/kamskoe-ustye/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "752cf907c1bad19db1a12e0274b6039150b03c55"
+       "hash": "6fd3f437031cbfdb5e68aa545689da2bd3e0ac5f"
       }
      ]
     },
@@ -616,14 +616,14 @@
        "path": "ru-tatarstan/kukmor/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "6cab8e5173ad53f7341413f03dec4a9bd7300d9b"
+       "hash": "aa8d16e2d04a5719b663e87eeb12fce25cddb53a"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/kukmor/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "4757be7a919c6783a62e3e9f6531634011e2eec9"
+       "hash": "a07ad202be8b308691997536d315ef513fa665e0"
       }
      ]
     },
@@ -639,14 +639,14 @@
        "path": "ru-tatarstan/laishevo/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "72f2033e3485ae8512a943b53d009557c4645ec7"
+       "hash": "cb1382837d790c69042b86edeadd52146e5f1b33"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/laishevo/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "cd263edb92b7d258f27cfc9dbcaecf8bc6702bfc"
+       "hash": "b3bc0adfe9710201bd27bcc4fe49ec1589806dc2"
       }
      ]
     },
@@ -662,14 +662,14 @@
        "path": "ru-tatarstan/leninogorsk/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "30a09b7b8759cc6c83991bfda011e9c832804bea"
+       "hash": "4fb20ba02d36a51efbd44bd33a9a0cbc51ca8930"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/leninogorsk/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "28e42cf231f17a9d13090abd38ae57929d803194"
+       "hash": "afa01fb40fb17ef61448a4919852016c9249010c"
       }
      ]
     },
@@ -685,14 +685,14 @@
        "path": "ru-tatarstan/mamadysh/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "47de543e834e8a005523ac77325600e54d3a15b6"
+       "hash": "7537333e29b720b55d5b3d626105f2e58dee007d"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/mamadysh/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "399eb38e73d40311ab59630a1f82122202973250"
+       "hash": "9ff132cf89c8d869091b789eaa835f423c9b77de"
       }
      ]
     },
@@ -708,14 +708,14 @@
        "path": "ru-tatarstan/mendeleevsk/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "d661bc78cdadb71e17ccddb58892769ff521b5fb"
+       "hash": "cfecee3ced456255891c250caecc7a018c5fef73"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/mendeleevsk/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "50eaa6bde42a85a78320d71b4d0909975bd5053c"
+       "hash": "fbffbebae997a04dc84e5ccd01d9f1572364c2a5"
       }
      ]
     },
@@ -731,14 +731,14 @@
        "path": "ru-tatarstan/menzelinsk/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "a604ae5722150abbf76de40dcfe304a72af2f89c"
+       "hash": "fe779e65927fad42b07eae92aef24d1d3543d2ec"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/menzelinsk/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "ac14d32861c0bc9d098ce52dd080d0a6a531f483"
+       "hash": "6a2b8c87b1ec9e1a34fe2a9c6598526634daedea"
       }
      ]
     },
@@ -754,14 +754,14 @@
        "path": "ru-tatarstan/muslyumovo/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "837ee51d5f29621b9ebbf3355bd85b48d49f488d"
+       "hash": "193a6e8f1ff74e249845a0efaa02387302f8f2e1"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/muslyumovo/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "95d8af71b87855322efc18a542d4b9adb18ec035"
+       "hash": "7f9a01991bbc445a91ace9d74892293a0627d072"
       }
      ]
     },
@@ -777,14 +777,14 @@
        "path": "ru-tatarstan/naberezhnye-chelny/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "b865f9aa5237b28e47a5e927f3cd6d842554609d"
+       "hash": "cb44bf38124587c2129106dfc222337710a3340d"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/naberezhnye-chelny/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "adb66f094d700871694d88a67bf13533c70ee7b3"
+       "hash": "423c99c7eb5b6fca07d5d5019e3b26a089ed96fa"
       }
      ]
     },
@@ -800,14 +800,14 @@
        "path": "ru-tatarstan/nizhnekamsk/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "74a6ca73bb645eb3f3e361043390ef1121cd1d56"
+       "hash": "869554c4d195a6542a1dc058078a11d2e6078405"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/nizhnekamsk/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "0bd8869918addc5ed4397ac9ce37ba408def64c7"
+       "hash": "3a97a1d469a73155c5a535d64834989eaea38b37"
       }
      ]
     },
@@ -823,14 +823,14 @@
        "path": "ru-tatarstan/novosheshminsk/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "0850f2605fef9af07243cd54f985e1d930d284c7"
+       "hash": "f5426a8144085bf9a2c02bc1d36e87507cc08182"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/novosheshminsk/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "ccefad4e26b023ec121fcbf877c06de1695fc401"
+       "hash": "b5a4afaf717a3221b8bde1db7469bd6ce6b77009"
       }
      ]
     },
@@ -846,14 +846,14 @@
        "path": "ru-tatarstan/nurlat/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "0eb7823318cba257dc7bf5327ae31afe1e09322d"
+       "hash": "aefb571583f91b94d75bb514ba8b95f1242a15ee"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/nurlat/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "2d1184d7bdf99b0b45b1646dabd80d41b3baa3c5"
+       "hash": "a4133ec1ebbe47ec13056de9fafcababd84db635"
       }
      ]
     },
@@ -869,14 +869,14 @@
        "path": "ru-tatarstan/pestretsy/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "a74bffe38bcee4d7d53b7dcb9de75e0f088d67c3"
+       "hash": "0be71231e91aa456dd20411911abc0c477306b32"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/pestretsy/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "ee42af36d38b0de8233f1566e5d05a8da735bc6f"
+       "hash": "17d5387c4f84003a1c57466fcf496bfa98ef41eb"
       }
      ]
     },
@@ -892,14 +892,14 @@
        "path": "ru-tatarstan/rybnaya-sloboda/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "00a340b1eb413e61f1d2ee225e681784ff2ac496"
+       "hash": "854da64175c8bdef44c33a25b5e0cbf4c6424815"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/rybnaya-sloboda/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "2bd0190785249a85f0c0396d87af47ffcc547062"
+       "hash": "048f007790cf87353ea7fbd22b0d5f55391e1a40"
       }
      ]
     },
@@ -915,14 +915,14 @@
        "path": "ru-tatarstan/sarmanovo/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "29c15c2cb92eb227dda86ca9eb67e7e0184838eb"
+       "hash": "35697972c53145ac17b13d34a39d146f1240ed9e"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/sarmanovo/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "3407292495ba89d3df1900d378e0f1dc71a8dbee"
+       "hash": "c1b789f56b760d9c12678fcbdcf38822b24d4858"
       }
      ]
     },
@@ -938,14 +938,14 @@
        "path": "ru-tatarstan/staroe-drozhzhanoe/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "a29c1f4f1611ab9170fd4c39e4ce862dfc1eef86"
+       "hash": "ac9d1780ac270fa2945366f6d248c99f7a096149"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/staroe-drozhzhanoe/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "5fde917a1510ebf8fd1e2eb9ef00236dfefae28f"
+       "hash": "79e85a664522b8f8d831f64861f5b9e2ab7b22b2"
       }
      ]
     },
@@ -961,14 +961,14 @@
        "path": "ru-tatarstan/tetyushi/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "f0d02fcff55e1eb717bf22eea986aaf0a2d6af07"
+       "hash": "1e64232059beb3b77b5c880a54538389809febd2"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/tetyushi/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "f12cb14dcf6edfe4c944807a13cb579bb36bcae7"
+       "hash": "812520607c482da9870e86214b9ae9db5393173b"
       }
      ]
     },
@@ -984,14 +984,14 @@
        "path": "ru-tatarstan/tyulyachi/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "a47738709295797e12e51668ee0670458c2ed6fb"
+       "hash": "4f306b64082ede3b0289c6b97d56b375a43e0230"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/tyulyachi/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "1604a553c607e205417eabbb205962d3bb94e913"
+       "hash": "9b6241da4dbb2a5977c060c97e47fee06f8a1354"
       }
      ]
     },
@@ -1007,14 +1007,14 @@
        "path": "ru-tatarstan/urussu/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "463f9b930ee15f0d5d52861f3fc52f19173f3f6d"
+       "hash": "a291b84820874f5c77cdc601d925dcc13c15ef03"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/urussu/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "3223575438005ab305dc6cc73ed14d3146478992"
+       "hash": "d4fcf9b50b1363ad2213063c6e3b5138d6747daa"
       }
      ]
     },
@@ -1030,14 +1030,14 @@
        "path": "ru-tatarstan/cheremshan/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "b27580ec670ed6097db23b4dde076dc2b7fc8f80"
+       "hash": "34bedb5e876a516e52d1df2478ce2ecd265a56b6"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/cheremshan/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "896b9a2205179af8a670558e4c5ad1e32e2dcf9b"
+       "hash": "4f11157a265c50fa88a6782f70af3088a90b27c6"
       }
      ]
     },
@@ -1053,14 +1053,14 @@
        "path": "ru-tatarstan/chistopol/2025.json",
        "start": "2025-01-01",
        "days": 365,
-       "hash": "3b7aa455657a0c0720e4b4796f0fc7cb77abf588"
+       "hash": "6ebdab29c788a56a331e09b809e6b4de69f2afca"
       },
       {
        "year": 2026,
        "path": "ru-tatarstan/chistopol/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "7fd4094611a8419ce2bcd49e3b81b60d403d8891"
+       "hash": "cce71309661c8c277e8e08484896d9fa2ef4272a"
       }
      ]
     }
@@ -1095,14 +1095,14 @@
        "path": "ru-dagestan/mahashkala/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "84baefae61b0485a06fe063110bb0041d3d0cab7"
+       "hash": "6fc687cbbe103360e02f7a8bc04b9508a4200144"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/mahashkala/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "dcfd1a0f9aaa5f14487e4745ee0c3ebabe774630"
+       "hash": "5e5aa76dbc52f79a2d086f9b0faec01dd6e590f7"
       }
      ]
     },
@@ -1118,14 +1118,14 @@
        "path": "ru-dagestan/agul/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "f59357a3fdd00472afefa701bf231a2ec235d34d"
+       "hash": "8832eac51dd8a26e35271a81056a7a5916b5093f"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/agul/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "dfdfe9afc79775423117c7fadfafb8949c73640a"
+       "hash": "aa60a063d962fdd68ccb029940f39a2d7029d971"
       }
      ]
     },
@@ -1141,14 +1141,14 @@
        "path": "ru-dagestan/ahti/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "2b82fbde0559969a6ac6846947aed031b7de1b28"
+       "hash": "f3a84685ab42a56b35efbe0560683eda5efb6671"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/ahti/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "ef947c1569c3b2dda5b9dc0d16ed90db51068fc6"
+       "hash": "bfc9efb557f4d4b6b7a0c9105a4ff4c42618b9b1"
       }
      ]
     },
@@ -1172,14 +1172,14 @@
        "path": "ru-dagestan/babayurt/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "02cacd2e3c5c90e632436057cff31e1a64e15067"
+       "hash": "ff8ccb2a4650ee8029a75e5fcca2761020054dd9"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/babayurt/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "7a1800c1b2de5714fea8c28375c79e0c23f946fd"
+       "hash": "642ab710410d061322a905ce97559279b3d47ea7"
       }
      ]
     },
@@ -1195,14 +1195,14 @@
        "path": "ru-dagestan/botlih/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "767eca3986d29f912fdf439c2cb0a7f6d7709333"
+       "hash": "26761634a80830b605d9063b3d998ab4559ca0a4"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/botlih/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "88ffe6979ae4198466bc4c8221ff17b57f033189"
+       "hash": "ae7bb0cddbcaee2b10216d3ac781021739be534d"
       }
      ]
     },
@@ -1234,14 +1234,14 @@
        "path": "ru-dagestan/dagogni/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "fcd21f7b862e73e8dffaffb096fbe21b2f98626d"
+       "hash": "9b1968c61c5b6794360264320e34b8d3849f3091"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/dagogni/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "7b3587b39269703e87ef5f3fbfacb23b8e0b510f"
+       "hash": "344c3585d1cc914ddfc7ad4211c8e0f98e90907f"
       }
      ]
     },
@@ -1257,14 +1257,14 @@
        "path": "ru-dagestan/derbent/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "b5e85ae0c62ed9eef1ed0fbfd0e2e1e7e372dda1"
+       "hash": "cc9a8b27d6792bfb16ecf37ffcd7f4de363e1225"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/derbent/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "74dcc9a05ce54c2e88005b70f26c964cace00c96"
+       "hash": "2c53fef16567f3177c1e1cdb393bd73704e69a41"
       }
      ]
     },
@@ -1288,14 +1288,14 @@
        "path": "ru-dagestan/gergebil/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "fc62097035338d2cfa1bbe60160df3b74932530a"
+       "hash": "1c50c90e400d37e9b11702a6462d9ed4c85d1e09"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/gergebil/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "e0e49ed4f5ccb0aa7d611afd3eac26a7910ba178"
+       "hash": "714fddaf834f57a406c97daff2cf7a446052fab0"
       }
      ]
     },
@@ -1311,14 +1311,14 @@
        "path": "ru-dagestan/gumbet/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "055a5a894f9f3ffe1d2c9841148c88a8becc622b"
+       "hash": "e686dd41b9456a5c6a0e30912a2882c01225c2ab"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/gumbet/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "9fc4eb1557aaf1204d63b156bedda983cfb276ce"
+       "hash": "c10efde027a0cd476fe02e7ef91c151feffc7b1f"
       }
      ]
     },
@@ -1334,14 +1334,14 @@
        "path": "ru-dagestan/hasavyurt/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "00656e4b8e3aa6d0a99ddc64a9ec9d156c7c8556"
+       "hash": "c15268589049d92b6d4110bdf5e0ceb9720ed49f"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/hasavyurt/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "606158f5703f88a281f44c8e1c536c32fcf2dad9"
+       "hash": "bbf64e9339a411c6e8b9ec7eaeaa32b7a052f179"
       }
      ]
     },
@@ -1357,14 +1357,14 @@
        "path": "ru-dagestan/hunzah/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "fcf71153ff4b4eaa3f41e05705b861b4567ad9df"
+       "hash": "47c54d10e7c78f5bd2b40b35adfef43e9a459c1f"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/hunzah/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "e3409ff8389c853984722cf8b48668a915a35485"
+       "hash": "16997c6d274e35ccddad1d57d81b041ad3a6f65c"
       }
      ]
     },
@@ -1380,14 +1380,14 @@
        "path": "ru-dagestan/izberbash/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "f5e76312309bf136c638a4eac1554e3cd6451b93"
+       "hash": "39d7935ff802cdf4636ab45a1982f4a562699c7f"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/izberbash/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "9cfafb1626edab6b086848f8411b70b0c8cdf720"
+       "hash": "428247db30e0458e93f911e291b4452af8a006e4"
       }
      ]
     },
@@ -1403,14 +1403,14 @@
        "path": "ru-dagestan/kaspiysk/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "f9a3b454ffbee5193928bf8d12ba6d4c23917225"
+       "hash": "eb75226c6b2537c11aa6d88f91d974a826b7ee8d"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/kaspiysk/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "2b46261f83bcc5050aa43d7f2c43857470003457"
+       "hash": "58c37348863297eae76cd52f912067127b65ec50"
       }
      ]
     },
@@ -1434,14 +1434,14 @@
        "path": "ru-dagestan/kizilurt/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "4903067dcdf963bf11ae3faa1a178ec65147fc4b"
+       "hash": "f8765eba31ba4447f26f3c68089b0daa73a805dc"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/kizilurt/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "f9217df0548293d653019feac5cc1345dc21adeb"
+       "hash": "81bbdf5948b5982ce6d5eb8aa664c9a5a3343226"
       }
      ]
     },
@@ -1457,14 +1457,14 @@
        "path": "ru-dagestan/kizlyar/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "c6e6ecbf35bcefce17ccee8d0d630fcb9d43aab7"
+       "hash": "23a776de0afef051357d95ab4f2a081b22e75a8c"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/kizlyar/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "2e23395c138b22862197d9ed4f81a0c615f67536"
+       "hash": "22efa83d121758a49177b26e5cdd2adb6449955f"
       }
      ]
     },
@@ -1480,14 +1480,14 @@
        "path": "ru-dagestan/kurah/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "ab86b408a3b358366af35e56ccaa9c5e01ade7a8"
+       "hash": "bf6faa70cd868e680bfc4740fdf792d2dd2645ee"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/kurah/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "beecc99d8eea4627c74405df6b24107f8a060684"
+       "hash": "fa65c41e084d3a8f2777941d5f2f417e44980c43"
       }
      ]
     },
@@ -1503,14 +1503,14 @@
        "path": "ru-dagestan/levashi/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "afbbf387d00867af6fe3fbf49411a5d63e3396fa"
+       "hash": "5a676d4d5f810f5a2d39ece613f2d1728c1ecaed"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/levashi/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "8aea5333ccf9fb48089185d53be0dab0ac6b1d29"
+       "hash": "34ce89d9e6065ea6dfc37462c1cdd3af52cfbac6"
       }
      ]
     },
@@ -1526,14 +1526,14 @@
        "path": "ru-dagestan/rutul/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "e165a02e289b6e17ff6dc6b3652a76042666f2fa"
+       "hash": "9a5be2677a0fec708e2299858da24696a148dfda"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/rutul/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "38b992bdbe41f354c5a80fe3fecafdf0bd60689e"
+       "hash": "8c81b35377aae1c892b9a29944be007dd66fb02a"
       }
      ]
     },
@@ -1549,14 +1549,14 @@
        "path": "ru-dagestan/shamilkala/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "aab75fb0b38cdb212d6f50780be8f7b45c5c0a2b"
+       "hash": "79fc5cc9c4a3ef0e7440a7ecc83b5f76108b595e"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/shamilkala/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "7f318764313b01ef3e4d199f23599cd07b30c078"
+       "hash": "dd226b0c69a243d777049158cf2d7a2447d0a829"
       }
      ]
     },
@@ -1572,14 +1572,14 @@
        "path": "ru-dagestan/sharoda/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "56284a62a9aad8f509f5e6c0d718871ca61e64d0"
+       "hash": "6caa55b4729498ab211f31126984e851fa2591a8"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/sharoda/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "4fdb1b140b9e5e7a45ba657f615e091c7a2589a4"
+       "hash": "80198e4c6501a4462a80aafec289a48b80e8f907"
       }
      ]
     },
@@ -1595,14 +1595,14 @@
        "path": "ru-dagestan/suhokumsk/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "e15b47506f22685123e8d3727a1fa73f0bd6e246"
+       "hash": "d0965ff28904f13df8d0fcc9e45f8bc00348cd21"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/suhokumsk/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "17813bf9b3fda78ca4741469cb5e20ba96f39282"
+       "hash": "5390f39c5c5128e686306e2034e67c5f804fb74a"
       }
      ]
     },
@@ -1626,14 +1626,14 @@
        "path": "ru-dagestan/unsukul/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "73656768964d902dfc424cd53dae557323163838"
+       "hash": "301a362e3272d0e4eb4d9bb08259c48bfe112b82"
       },
       {
        "year": 2027,
        "path": "ru-dagestan/unsukul/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "acf03076baacf123e397496b3de95871c9bd30a2"
+       "hash": "ffd3cf7c9b6c3e41fc89d6423dc3cc04095aa1ad"
       }
      ]
     }
@@ -1668,7 +1668,7 @@
        "path": "ru-moscow/moscow/2026.json",
        "start": "2026-10-01",
        "days": 61,
-       "hash": "13d8f9eccee63293acc7a6151afef21896efbacf"
+       "hash": "e41ab3f9cc436d7c9fb28cb340a63cc1dc423e8a"
       }
      ]
     }
