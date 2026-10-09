@@ -1,0 +1,668 @@
+{
+ "authorities": [
+  {
+   "id": "ru-kbr",
+   "name": "ДУМ КБР",
+   "name_en": "Muftiate of Kabardino-Balkaria",
+   "country": "RU",
+   "regions": [
+    "kabard",
+    "кабард"
+   ],
+   "utcOffset": 180,
+   "fallback": {
+    "kind": "dumKbr"
+   },
+   "source": "https://www.kbrdum.ru/8-grafik-namazov",
+   "places": [
+    {
+     "id": "kbr",
+     "name": "Кабардино-Балкария",
+     "lat": 43.4981,
+     "lng": 43.6189,
+     "radiusKm": 100
+    }
+   ]
+  },
+  {
+   "id": "ru-tatarstan",
+   "name": "ДУМ РТ",
+   "name_en": "Muftiate of Tatarstan",
+   "country": "RU",
+   "regions": [
+    "татарст",
+    "tatarst"
+   ],
+   "utcOffset": 180,
+   "fallback": {
+    "kind": "aladhan",
+    "method": 14,
+    "school": "hanafi"
+   },
+   "source": "https://dumrt.ru/ru/help-info/prayertime/",
+   "places": [
+    {
+     "id": "agryz",
+     "name": "Агрыз",
+     "lat": 56.5234,
+     "lng": 52.9943,
+     "radiusKm": 60,
+     "src": "Agriz"
+    },
+    {
+     "id": "aznakaevo",
+     "name": "Азнакаево",
+     "lat": 54.8582,
+     "lng": 53.0801,
+     "radiusKm": 60,
+     "src": "Aznakay"
+    },
+    {
+     "id": "aksubaevo",
+     "name": "Аксубаево",
+     "lat": 54.8472,
+     "lng": 50.7963,
+     "radiusKm": 60,
+     "src": "Aksubay"
+    },
+    {
+     "id": "aktanysh",
+     "name": "Актаныш",
+     "lat": 55.7171,
+     "lng": 54.0712,
+     "radiusKm": 60,
+     "src": "Aktanis"
+    },
+    {
+     "id": "alekseevskoe",
+     "name": "Алексеевск",
+     "lat": 55.3071,
+     "lng": 50.1189,
+     "radiusKm": 60,
+     "src": "Aleksey"
+    },
+    {
+     "id": "almetyevsk",
+     "name": "Альметьевск",
+     "lat": 54.904,
+     "lng": 52.3179,
+     "radiusKm": 60,
+     "src": "Almet"
+    },
+    {
+     "id": "apastovo",
+     "name": "Апастово",
+     "lat": 55.2012,
+     "lng": 48.5113,
+     "radiusKm": 60,
+     "src": "Apastovo"
+    },
+    {
+     "id": "arsk",
+     "name": "Арск",
+     "lat": 56.0925,
+     "lng": 49.8782,
+     "radiusKm": 60,
+     "src": "Arsk"
+    },
+    {
+     "id": "bavly",
+     "name": "Бавлы",
+     "lat": 54.3976,
+     "lng": 53.2512,
+     "radiusKm": 60,
+     "src": "Bavli"
+    },
+    {
+     "id": "bazarnye-mataki",
+     "name": "Базарные Матаки",
+     "lat": 54.9069,
+     "lng": 49.9342,
+     "radiusKm": 60,
+     "src": "BazarnyeMataki"
+    },
+    {
+     "id": "baltasi",
+     "name": "Балтаси",
+     "lat": 56.3465,
+     "lng": 50.2075,
+     "radiusKm": 60,
+     "src": "Baltasi"
+    },
+    {
+     "id": "bogatye-saby",
+     "name": "Богатые Сабы",
+     "lat": 56.0094,
+     "lng": 50.4471,
+     "radiusKm": 60,
+     "src": "BogatyeSaby"
+    },
+    {
+     "id": "bolgar",
+     "name": "Болгар",
+     "lat": 54.9742,
+     "lng": 49.0308,
+     "radiusKm": 60,
+     "src": "Bolgary"
+    },
+    {
+     "id": "bolshaya-atnya",
+     "name": "Большая Атня",
+     "lat": 56.2506,
+     "lng": 49.4516,
+     "radiusKm": 60,
+     "src": "BolshAtna"
+    },
+    {
+     "id": "bolshie-kaybitsy",
+     "name": "Большие Кайбицы",
+     "lat": 55.4033,
+     "lng": 48.1855,
+     "radiusKm": 60,
+     "src": "BolshieKaybesy"
+    },
+    {
+     "id": "bugulma",
+     "name": "Бугульма",
+     "lat": 54.5378,
+     "lng": 52.7985,
+     "radiusKm": 60,
+     "src": "Bugulma"
+    },
+    {
+     "id": "buinsk",
+     "name": "Буинск",
+     "lat": 54.9742,
+     "lng": 48.2909,
+     "radiusKm": 60,
+     "src": "Buinsk"
+    },
+    {
+     "id": "verkhniy-uslon",
+     "name": "Верхний Услон",
+     "lat": 55.768,
+     "lng": 48.9776,
+     "radiusKm": 60,
+     "src": "VerhUslon"
+    },
+    {
+     "id": "vysokaya-gora",
+     "name": "Высокая Гора",
+     "lat": 55.9099,
+     "lng": 49.3134,
+     "radiusKm": 60,
+     "src": "VicokayGora"
+    },
+    {
+     "id": "elabuga",
+     "name": "Елабуга",
+     "lat": 55.7623,
+     "lng": 52.0442,
+     "radiusKm": 60,
+     "src": "Elabuga"
+    },
+    {
+     "id": "zainsk",
+     "name": "Заинск",
+     "lat": 55.2836,
+     "lng": 51.9986,
+     "radiusKm": 60,
+     "src": "Zainsk"
+    },
+    {
+     "id": "zelenodolsk",
+     "name": "Зеленодольск",
+     "lat": 55.8438,
+     "lng": 48.5178,
+     "radiusKm": 60,
+     "src": "Zelenodolsk"
+    },
+    {
+     "id": "kazan",
+     "name": "Казань",
+     "lat": 55.7887,
+     "lng": 49.1221,
+     "radiusKm": 60,
+     "src": "Kazan"
+    },
+    {
+     "id": "kamskoe-ustye",
+     "name": "Камское Устье",
+     "lat": 55.1956,
+     "lng": 49.2621,
+     "radiusKm": 60,
+     "src": "KamskoeUstye"
+    },
+    {
+     "id": "kukmor",
+     "name": "Кукмор",
+     "lat": 56.1865,
+     "lng": 50.894,
+     "radiusKm": 60,
+     "src": "Kukmor"
+    },
+    {
+     "id": "laishevo",
+     "name": "Лаишево",
+     "lat": 55.4056,
+     "lng": 49.5521,
+     "radiusKm": 60,
+     "src": "Laish"
+    },
+    {
+     "id": "leninogorsk",
+     "name": "Лениногорск",
+     "lat": 54.5971,
+     "lng": 52.4512,
+     "radiusKm": 60,
+     "src": "Leninogorsk"
+    },
+    {
+     "id": "mamadysh",
+     "name": "Мамадыш",
+     "lat": 55.7027,
+     "lng": 51.4044,
+     "radiusKm": 60,
+     "src": "Mamadis"
+    },
+    {
+     "id": "mendeleevsk",
+     "name": "Менделеевск",
+     "lat": 55.8969,
+     "lng": 52.3112,
+     "radiusKm": 60,
+     "src": "Mendeleevsk"
+    },
+    {
+     "id": "menzelinsk",
+     "name": "Мензелинск",
+     "lat": 55.7279,
+     "lng": 53.1022,
+     "radiusKm": 60,
+     "src": "Menzilinsk"
+    },
+    {
+     "id": "muslyumovo",
+     "name": "Муслюмово",
+     "lat": 55.3071,
+     "lng": 53.1885,
+     "radiusKm": 60,
+     "src": "Muslimov"
+    },
+    {
+     "id": "naberezhnye-chelny",
+     "name": "Набережные Челны",
+     "lat": 55.7372,
+     "lng": 52.4196,
+     "radiusKm": 60,
+     "src": "NabChelny"
+    },
+    {
+     "id": "nizhnekamsk",
+     "name": "Нижнекамск",
+     "lat": 55.6379,
+     "lng": 51.815,
+     "radiusKm": 60,
+     "src": "Nignekamsk"
+    },
+    {
+     "id": "novosheshminsk",
+     "name": "Новошешминск",
+     "lat": 55.0664,
+     "lng": 51.2406,
+     "radiusKm": 60,
+     "src": "Novosesminsk"
+    },
+    {
+     "id": "nurlat",
+     "name": "Нурлат",
+     "lat": 54.429,
+     "lng": 50.806,
+     "radiusKm": 60,
+     "src": "Nurlat"
+    },
+    {
+     "id": "pestretsy",
+     "name": "Пестрецы",
+     "lat": 55.7541,
+     "lng": 49.6511,
+     "radiusKm": 60,
+     "src": "Pestrezy"
+    },
+    {
+     "id": "rybnaya-sloboda",
+     "name": "Рыбная Слобода",
+     "lat": 55.4625,
+     "lng": 50.1444,
+     "radiusKm": 60,
+     "src": "RibnayaSlpboda"
+    },
+    {
+     "id": "sarmanovo",
+     "name": "Сарманово",
+     "lat": 55.2544,
+     "lng": 52.5878,
+     "radiusKm": 60,
+     "src": "Sarmanovo2"
+    },
+    {
+     "id": "staroe-drozhzhanoe",
+     "name": "Старое Дрожжаное",
+     "lat": 54.7238,
+     "lng": 47.5565,
+     "radiusKm": 60,
+     "src": "StaroeChuprale"
+    },
+    {
+     "id": "tetyushi",
+     "name": "Тетюши",
+     "lat": 54.9377,
+     "lng": 48.8327,
+     "radiusKm": 60,
+     "src": "Tet2"
+    },
+    {
+     "id": "tyulyachi",
+     "name": "Тюлячи",
+     "lat": 55.8889,
+     "lng": 50.2342,
+     "radiusKm": 60,
+     "src": "Tulyachi"
+    },
+    {
+     "id": "urussu",
+     "name": "Уруссу",
+     "lat": 54.597,
+     "lng": 53.4562,
+     "radiusKm": 60,
+     "src": "Urussu"
+    },
+    {
+     "id": "cheremshan",
+     "name": "Черемшан",
+     "lat": 54.6613,
+     "lng": 51.5114,
+     "radiusKm": 60,
+     "src": "Cheremsan"
+    },
+    {
+     "id": "chistopol",
+     "name": "Чистополь",
+     "lat": 55.3661,
+     "lng": 50.644,
+     "radiusKm": 60,
+     "src": "Chistop"
+    }
+   ]
+  },
+  {
+   "id": "ru-dagestan",
+   "name": "Муфтият РД",
+   "name_en": "Muftiate of Dagestan",
+   "country": "RU",
+   "regions": [
+    "дагест",
+    "dagest"
+   ],
+   "utcOffset": 180,
+   "fallback": {
+    "kind": "aladhan",
+    "method": 14,
+    "school": "shafi"
+   },
+   "source": "https://muftiyatrd.ru/",
+   "places": [
+    {
+     "id": "mahashkala",
+     "name": "Махачкала",
+     "lat": 42.9778,
+     "lng": 47.5003,
+     "radiusKm": 50,
+     "src": "mahashkala"
+    },
+    {
+     "id": "agul",
+     "name": "Агульский район (Тпиг)",
+     "lat": 41.7806,
+     "lng": 47.5891,
+     "radiusKm": 50,
+     "src": "agul"
+    },
+    {
+     "id": "ahti",
+     "name": "Ахты",
+     "lat": 41.4595,
+     "lng": 47.7325,
+     "radiusKm": 50,
+     "src": "ahti"
+    },
+    {
+     "id": "ahvah",
+     "name": "Ахвахский район (Карата)",
+     "lat": 42.5945,
+     "lng": 46.3405,
+     "radiusKm": 50,
+     "src": "ahvah"
+    },
+    {
+     "id": "babayurt",
+     "name": "Бабаюрт",
+     "lat": 43.5998,
+     "lng": 46.7781,
+     "radiusKm": 50,
+     "src": "babayurt"
+    },
+    {
+     "id": "botlih",
+     "name": "Ботлих",
+     "lat": 42.6653,
+     "lng": 46.2203,
+     "radiusKm": 50,
+     "src": "botlih"
+    },
+    {
+     "id": "buynaksk",
+     "name": "Буйнакск",
+     "lat": 42.818,
+     "lng": 47.1268,
+     "radiusKm": 50,
+     "src": "buynaksk"
+    },
+    {
+     "id": "cumada",
+     "name": "Цумадинский район (Агвали)",
+     "lat": 42.538,
+     "lng": 46.1252,
+     "radiusKm": 50,
+     "src": "cumada"
+    },
+    {
+     "id": "dagogni",
+     "name": "Дагестанские Огни",
+     "lat": 42.1159,
+     "lng": 48.1919,
+     "radiusKm": 50,
+     "src": "dagogni"
+    },
+    {
+     "id": "derbent",
+     "name": "Дербент",
+     "lat": 42.0662,
+     "lng": 48.2876,
+     "radiusKm": 50,
+     "src": "derbent"
+    },
+    {
+     "id": "dokuzparinsk",
+     "name": "Докузпаринский район (Усухчай)",
+     "lat": 41.4224,
+     "lng": 47.9132,
+     "radiusKm": 50,
+     "src": "dokuzparinsk"
+    },
+    {
+     "id": "gergebil",
+     "name": "Гергебиль",
+     "lat": 42.5047,
+     "lng": 47.0661,
+     "radiusKm": 50,
+     "src": "gergebil"
+    },
+    {
+     "id": "gumbet",
+     "name": "Гумбетовский район (Мехельта)",
+     "lat": 42.7909,
+     "lng": 46.4942,
+     "radiusKm": 50,
+     "src": "gumbet"
+    },
+    {
+     "id": "hasavyurt",
+     "name": "Хасавюрт",
+     "lat": 43.2487,
+     "lng": 46.5857,
+     "radiusKm": 50,
+     "src": "hasavyurt"
+    },
+    {
+     "id": "hunzah",
+     "name": "Хунзах",
+     "lat": 42.5429,
+     "lng": 46.706,
+     "radiusKm": 50,
+     "src": "hunzah"
+    },
+    {
+     "id": "izberbash",
+     "name": "Избербаш",
+     "lat": 42.5671,
+     "lng": 47.8755,
+     "radiusKm": 50,
+     "src": "izberbash"
+    },
+    {
+     "id": "kaspiysk",
+     "name": "Каспийск",
+     "lat": 42.8817,
+     "lng": 47.6392,
+     "radiusKm": 50,
+     "src": "kaspiysk"
+    },
+    {
+     "id": "kazbek",
+     "name": "Казбековский район (Дылым)",
+     "lat": 43.071,
+     "lng": 46.6345,
+     "radiusKm": 50,
+     "src": "kazbek"
+    },
+    {
+     "id": "kizilurt",
+     "name": "Кизилюрт",
+     "lat": 43.2028,
+     "lng": 46.8659,
+     "radiusKm": 50,
+     "src": "kizilurt"
+    },
+    {
+     "id": "kizlyar",
+     "name": "Кизляр",
+     "lat": 43.8469,
+     "lng": 46.7098,
+     "radiusKm": 50,
+     "src": "kizlyar"
+    },
+    {
+     "id": "kurah",
+     "name": "Курах",
+     "lat": 41.5849,
+     "lng": 47.7821,
+     "radiusKm": 50,
+     "src": "kurah"
+    },
+    {
+     "id": "levashi",
+     "name": "Леваши",
+     "lat": 42.4322,
+     "lng": 47.3237,
+     "radiusKm": 50,
+     "src": "levashi"
+    },
+    {
+     "id": "rutul",
+     "name": "Рутул",
+     "lat": 41.5344,
+     "lng": 47.424,
+     "radiusKm": 50,
+     "src": "rutul"
+    },
+    {
+     "id": "shamilkala",
+     "name": "Шамилькала",
+     "lat": 42.6871,
+     "lng": 46.8685,
+     "radiusKm": 50,
+     "src": "shamilkala"
+    },
+    {
+     "id": "sharoda",
+     "name": "Чародинский район (Цуриб)",
+     "lat": 42.2383,
+     "lng": 46.8343,
+     "radiusKm": 50,
+     "src": "sharoda"
+    },
+    {
+     "id": "suhokumsk",
+     "name": "Южно-Сухокумск",
+     "lat": 44.6603,
+     "lng": 45.6475,
+     "radiusKm": 50,
+     "src": "suhokumsk"
+    },
+    {
+     "id": "tlarata",
+     "name": "Тлярата",
+     "lat": 42.1055,
+     "lng": 46.3542,
+     "radiusKm": 50,
+     "src": "tlarata"
+    },
+    {
+     "id": "unsukul",
+     "name": "Унцукуль",
+     "lat": 42.7115,
+     "lng": 46.7866,
+     "radiusKm": 50,
+     "src": "unsukul"
+    }
+   ]
+  },
+  {
+   "id": "ru-moscow",
+   "name": "ДУМ РФ",
+   "name_en": "Spiritual Administration of Muslims of Russia",
+   "country": "RU",
+   "regions": [
+    "моск",
+    "moscow"
+   ],
+   "utcOffset": 180,
+   "fallback": {
+    "kind": "aladhan",
+    "method": 14,
+    "school": "hanafi"
+   },
+   "source": "https://dumrf.ru/",
+   "places": [
+    {
+     "id": "moscow",
+     "name": "Москва и Московская область",
+     "lat": 55.7558,
+     "lng": 37.6173,
+     "radiusKm": 120
+    }
+   ]
+  }
+ ]
+}

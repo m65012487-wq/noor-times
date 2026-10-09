@@ -1,0 +1,1678 @@
+{
+ "v": 1,
+ "generated": "2026-10-09T07:20:59Z",
+ "authorities": [
+  {
+   "id": "ru-kbr",
+   "name": "ДУМ КБР",
+   "name_en": "Muftiate of Kabardino-Balkaria",
+   "country": "RU",
+   "regions": [
+    "kabard",
+    "кабард"
+   ],
+   "utcOffset": 180,
+   "fallback": {
+    "kind": "dumKbr"
+   },
+   "source": "https://www.kbrdum.ru/8-grafik-namazov",
+   "places": [
+    {
+     "id": "kbr",
+     "name": "Кабардино-Балкария",
+     "lat": 43.4981,
+     "lng": 43.6189,
+     "radiusKm": 100,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-kbr/kbr/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "50c74e55d7b2596aba7d7ed499524f93fe2d7c28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ru-tatarstan",
+   "name": "ДУМ РТ",
+   "name_en": "Muftiate of Tatarstan",
+   "country": "RU",
+   "regions": [
+    "татарст",
+    "tatarst"
+   ],
+   "utcOffset": 180,
+   "fallback": {
+    "kind": "aladhan",
+    "method": 14,
+    "school": "hanafi"
+   },
+   "source": "https://dumrt.ru/ru/help-info/prayertime/",
+   "places": [
+    {
+     "id": "agryz",
+     "name": "Агрыз",
+     "lat": 56.5234,
+     "lng": 52.9943,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/agryz/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "7bdbc3cdb3d578b7e671e10288026d11a3c85078"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/agryz/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "c23f2aef8704df4c9073c53490509009ef51f35b"
+      }
+     ]
+    },
+    {
+     "id": "aznakaevo",
+     "name": "Азнакаево",
+     "lat": 54.8582,
+     "lng": 53.0801,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/aznakaevo/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "120b36fff37c4653299201e005d65b14255d63fe"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/aznakaevo/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "a40e9cd563dfad350ae3cf8bf293e5c933bfa764"
+      }
+     ]
+    },
+    {
+     "id": "aksubaevo",
+     "name": "Аксубаево",
+     "lat": 54.8472,
+     "lng": 50.7963,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/aksubaevo/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "2aed7ac6f6a0b76a0d1eb8f2107097813640444f"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/aksubaevo/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "d3426a1dcae7254ed27382352f25b1c2f0827fcb"
+      }
+     ]
+    },
+    {
+     "id": "aktanysh",
+     "name": "Актаныш",
+     "lat": 55.7171,
+     "lng": 54.0712,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/aktanysh/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "e05aba19e311b6b9760806743b1c27f6ef98f06a"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/aktanysh/2026.json",
+       "start": "2026-01-02",
+       "days": 364,
+       "hash": "564d153fe331e2bd3d3910323e021750326c3f39"
+      }
+     ]
+    },
+    {
+     "id": "alekseevskoe",
+     "name": "Алексеевск",
+     "lat": 55.3071,
+     "lng": 50.1189,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/alekseevskoe/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "2282ebb09fdada2951372396a5f2e16d821255e9"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/alekseevskoe/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "21dbbc3668be603cf09bb06ab685a318e36b0b8a"
+      }
+     ]
+    },
+    {
+     "id": "almetyevsk",
+     "name": "Альметьевск",
+     "lat": 54.904,
+     "lng": 52.3179,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/almetyevsk/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "fb5ab7f77f7fea17e9788920e85338b0ca04ab71"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/almetyevsk/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "590701a9b4f845352169b1a4a90b332eac709cfd"
+      }
+     ]
+    },
+    {
+     "id": "apastovo",
+     "name": "Апастово",
+     "lat": 55.2012,
+     "lng": 48.5113,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/apastovo/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "38449085165f54f227f6752256736e4d04150557"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/apastovo/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "a94ea20e494a1db94443072f9c6e90b7a34de8e7"
+      }
+     ]
+    },
+    {
+     "id": "arsk",
+     "name": "Арск",
+     "lat": 56.0925,
+     "lng": 49.8782,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/arsk/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "c489e6ce58040facb39d5184fd19801c3da25bde"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/arsk/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "23e310d0ae544d7f0a4b59d358d6d7c15c516ec1"
+      }
+     ]
+    },
+    {
+     "id": "bavly",
+     "name": "Бавлы",
+     "lat": 54.3976,
+     "lng": 53.2512,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/bavly/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "414bc91b4d8aa4d40aa91859211a7ed327e0ab9b"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/bavly/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "7f6636a223c1db82d2bc221666544c19e0566390"
+      }
+     ]
+    },
+    {
+     "id": "bazarnye-mataki",
+     "name": "Базарные Матаки",
+     "lat": 54.9069,
+     "lng": 49.9342,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/bazarnye-mataki/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "b01781afbc4ed63df46148d05b4d972f30c288c1"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/bazarnye-mataki/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "acc38f9512b50530f7cc3fb3b7477e2ea48678fc"
+      }
+     ]
+    },
+    {
+     "id": "baltasi",
+     "name": "Балтаси",
+     "lat": 56.3465,
+     "lng": 50.2075,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/baltasi/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "acfbb0c23ff0a049352e1388da317d1636594e0d"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/baltasi/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "829945cc0f6c01c741f42302664956c37d0fa33a"
+      }
+     ]
+    },
+    {
+     "id": "bogatye-saby",
+     "name": "Богатые Сабы",
+     "lat": 56.0094,
+     "lng": 50.4471,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/bogatye-saby/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "9627dc77042fa03d1a998788a1c090e3223c4d54"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/bogatye-saby/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "8c79302cbd1387306fea93dd009e49a0c06eccc7"
+      }
+     ]
+    },
+    {
+     "id": "bolgar",
+     "name": "Болгар",
+     "lat": 54.9742,
+     "lng": 49.0308,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/bolgar/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "1e9893b03bb861b1b6545dea8f860fc07d6e9a29"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/bolgar/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "b3bef36b8d37811dd26ddb72174358a1e7be19c7"
+      }
+     ]
+    },
+    {
+     "id": "bolshaya-atnya",
+     "name": "Большая Атня",
+     "lat": 56.2506,
+     "lng": 49.4516,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/bolshaya-atnya/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "a11975901d796159f9fdbf11e8ce42fbb698a445"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/bolshaya-atnya/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "e96fabd77906d5a586b87757b0932d313fa1b694"
+      }
+     ]
+    },
+    {
+     "id": "bolshie-kaybitsy",
+     "name": "Большие Кайбицы",
+     "lat": 55.4033,
+     "lng": 48.1855,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/bolshie-kaybitsy/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "76659e370a5053da8d90ecd096a76d2bad908ba8"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/bolshie-kaybitsy/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "ba005f8e53873a6a5c01813f7ce44e9f1f93cb7d"
+      }
+     ]
+    },
+    {
+     "id": "bugulma",
+     "name": "Бугульма",
+     "lat": 54.5378,
+     "lng": 52.7985,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/bugulma/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "a53e3e3f548bb65e73c8a7774fe928b821476c9c"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/bugulma/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "898ebfcc9da239d707dac7cd3589aaa82f87f5d7"
+      }
+     ]
+    },
+    {
+     "id": "buinsk",
+     "name": "Буинск",
+     "lat": 54.9742,
+     "lng": 48.2909,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/buinsk/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "b87b9ca337b7d465f4670a3cafbbc2f0cf9aebe9"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/buinsk/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "32b6744cd0e2f83576d8908e566cb3e48a64b0db"
+      }
+     ]
+    },
+    {
+     "id": "verkhniy-uslon",
+     "name": "Верхний Услон",
+     "lat": 55.768,
+     "lng": 48.9776,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/verkhniy-uslon/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "e98a623f8d91d999aea1261e8d7a5a3e88dd98e8"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/verkhniy-uslon/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "f12f0b5cc0151d2c8adae659211b2dcd09e6a172"
+      }
+     ]
+    },
+    {
+     "id": "vysokaya-gora",
+     "name": "Высокая Гора",
+     "lat": 55.9099,
+     "lng": 49.3134,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/vysokaya-gora/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "ddc5ef0263205fccf26dc82d6902120cee8043e6"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/vysokaya-gora/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "ad594dae017e23db1e9d67aee2444d30fe060089"
+      }
+     ]
+    },
+    {
+     "id": "elabuga",
+     "name": "Елабуга",
+     "lat": 55.7623,
+     "lng": 52.0442,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/elabuga/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "53c2af6fe54174a6a3dcac950fbcfee47ff8904c"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/elabuga/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "26f2157aad387fcd6de9eb7d19a753e7b7689361"
+      }
+     ]
+    },
+    {
+     "id": "zainsk",
+     "name": "Заинск",
+     "lat": 55.2836,
+     "lng": 51.9986,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/zainsk/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "889dc7c85e075f17fc034421144d987750063289"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/zainsk/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "bc92e972cd83ea5702b2021ea3269deca6da2047"
+      }
+     ]
+    },
+    {
+     "id": "zelenodolsk",
+     "name": "Зеленодольск",
+     "lat": 55.8438,
+     "lng": 48.5178,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/zelenodolsk/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "0a746b1bd8c10f2b24e5a77f5fe992ad1d06f51d"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/zelenodolsk/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "9be7eec87fffb0acd7e640273567d860860f89e4"
+      }
+     ]
+    },
+    {
+     "id": "kazan",
+     "name": "Казань",
+     "lat": 55.7887,
+     "lng": 49.1221,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/kazan/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "10bdbbabd63662849eb580f94f015b9decbb7e9d"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/kazan/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "14a6b9f7f3f63f0944a0c70525d05643b18b74ff"
+      }
+     ]
+    },
+    {
+     "id": "kamskoe-ustye",
+     "name": "Камское Устье",
+     "lat": 55.1956,
+     "lng": 49.2621,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/kamskoe-ustye/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "dbba150dcb1a6d7be02a7af24cba499e993ff80f"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/kamskoe-ustye/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "752cf907c1bad19db1a12e0274b6039150b03c55"
+      }
+     ]
+    },
+    {
+     "id": "kukmor",
+     "name": "Кукмор",
+     "lat": 56.1865,
+     "lng": 50.894,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/kukmor/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "6cab8e5173ad53f7341413f03dec4a9bd7300d9b"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/kukmor/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "4757be7a919c6783a62e3e9f6531634011e2eec9"
+      }
+     ]
+    },
+    {
+     "id": "laishevo",
+     "name": "Лаишево",
+     "lat": 55.4056,
+     "lng": 49.5521,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/laishevo/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "72f2033e3485ae8512a943b53d009557c4645ec7"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/laishevo/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "cd263edb92b7d258f27cfc9dbcaecf8bc6702bfc"
+      }
+     ]
+    },
+    {
+     "id": "leninogorsk",
+     "name": "Лениногорск",
+     "lat": 54.5971,
+     "lng": 52.4512,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/leninogorsk/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "30a09b7b8759cc6c83991bfda011e9c832804bea"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/leninogorsk/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "28e42cf231f17a9d13090abd38ae57929d803194"
+      }
+     ]
+    },
+    {
+     "id": "mamadysh",
+     "name": "Мамадыш",
+     "lat": 55.7027,
+     "lng": 51.4044,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/mamadysh/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "47de543e834e8a005523ac77325600e54d3a15b6"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/mamadysh/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "399eb38e73d40311ab59630a1f82122202973250"
+      }
+     ]
+    },
+    {
+     "id": "mendeleevsk",
+     "name": "Менделеевск",
+     "lat": 55.8969,
+     "lng": 52.3112,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/mendeleevsk/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "d661bc78cdadb71e17ccddb58892769ff521b5fb"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/mendeleevsk/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "50eaa6bde42a85a78320d71b4d0909975bd5053c"
+      }
+     ]
+    },
+    {
+     "id": "menzelinsk",
+     "name": "Мензелинск",
+     "lat": 55.7279,
+     "lng": 53.1022,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/menzelinsk/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "a604ae5722150abbf76de40dcfe304a72af2f89c"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/menzelinsk/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "ac14d32861c0bc9d098ce52dd080d0a6a531f483"
+      }
+     ]
+    },
+    {
+     "id": "muslyumovo",
+     "name": "Муслюмово",
+     "lat": 55.3071,
+     "lng": 53.1885,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/muslyumovo/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "837ee51d5f29621b9ebbf3355bd85b48d49f488d"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/muslyumovo/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "95d8af71b87855322efc18a542d4b9adb18ec035"
+      }
+     ]
+    },
+    {
+     "id": "naberezhnye-chelny",
+     "name": "Набережные Челны",
+     "lat": 55.7372,
+     "lng": 52.4196,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/naberezhnye-chelny/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "b865f9aa5237b28e47a5e927f3cd6d842554609d"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/naberezhnye-chelny/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "adb66f094d700871694d88a67bf13533c70ee7b3"
+      }
+     ]
+    },
+    {
+     "id": "nizhnekamsk",
+     "name": "Нижнекамск",
+     "lat": 55.6379,
+     "lng": 51.815,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/nizhnekamsk/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "74a6ca73bb645eb3f3e361043390ef1121cd1d56"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/nizhnekamsk/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "0bd8869918addc5ed4397ac9ce37ba408def64c7"
+      }
+     ]
+    },
+    {
+     "id": "novosheshminsk",
+     "name": "Новошешминск",
+     "lat": 55.0664,
+     "lng": 51.2406,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/novosheshminsk/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "0850f2605fef9af07243cd54f985e1d930d284c7"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/novosheshminsk/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "ccefad4e26b023ec121fcbf877c06de1695fc401"
+      }
+     ]
+    },
+    {
+     "id": "nurlat",
+     "name": "Нурлат",
+     "lat": 54.429,
+     "lng": 50.806,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/nurlat/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "0eb7823318cba257dc7bf5327ae31afe1e09322d"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/nurlat/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "2d1184d7bdf99b0b45b1646dabd80d41b3baa3c5"
+      }
+     ]
+    },
+    {
+     "id": "pestretsy",
+     "name": "Пестрецы",
+     "lat": 55.7541,
+     "lng": 49.6511,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/pestretsy/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "a74bffe38bcee4d7d53b7dcb9de75e0f088d67c3"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/pestretsy/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "ee42af36d38b0de8233f1566e5d05a8da735bc6f"
+      }
+     ]
+    },
+    {
+     "id": "rybnaya-sloboda",
+     "name": "Рыбная Слобода",
+     "lat": 55.4625,
+     "lng": 50.1444,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/rybnaya-sloboda/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "00a340b1eb413e61f1d2ee225e681784ff2ac496"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/rybnaya-sloboda/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "2bd0190785249a85f0c0396d87af47ffcc547062"
+      }
+     ]
+    },
+    {
+     "id": "sarmanovo",
+     "name": "Сарманово",
+     "lat": 55.2544,
+     "lng": 52.5878,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/sarmanovo/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "29c15c2cb92eb227dda86ca9eb67e7e0184838eb"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/sarmanovo/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "3407292495ba89d3df1900d378e0f1dc71a8dbee"
+      }
+     ]
+    },
+    {
+     "id": "staroe-drozhzhanoe",
+     "name": "Старое Дрожжаное",
+     "lat": 54.7238,
+     "lng": 47.5565,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/staroe-drozhzhanoe/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "a29c1f4f1611ab9170fd4c39e4ce862dfc1eef86"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/staroe-drozhzhanoe/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "5fde917a1510ebf8fd1e2eb9ef00236dfefae28f"
+      }
+     ]
+    },
+    {
+     "id": "tetyushi",
+     "name": "Тетюши",
+     "lat": 54.9377,
+     "lng": 48.8327,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/tetyushi/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "f0d02fcff55e1eb717bf22eea986aaf0a2d6af07"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/tetyushi/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "f12cb14dcf6edfe4c944807a13cb579bb36bcae7"
+      }
+     ]
+    },
+    {
+     "id": "tyulyachi",
+     "name": "Тюлячи",
+     "lat": 55.8889,
+     "lng": 50.2342,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/tyulyachi/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "a47738709295797e12e51668ee0670458c2ed6fb"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/tyulyachi/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "1604a553c607e205417eabbb205962d3bb94e913"
+      }
+     ]
+    },
+    {
+     "id": "urussu",
+     "name": "Уруссу",
+     "lat": 54.597,
+     "lng": 53.4562,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/urussu/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "463f9b930ee15f0d5d52861f3fc52f19173f3f6d"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/urussu/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "3223575438005ab305dc6cc73ed14d3146478992"
+      }
+     ]
+    },
+    {
+     "id": "cheremshan",
+     "name": "Черемшан",
+     "lat": 54.6613,
+     "lng": 51.5114,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/cheremshan/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "b27580ec670ed6097db23b4dde076dc2b7fc8f80"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/cheremshan/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "896b9a2205179af8a670558e4c5ad1e32e2dcf9b"
+      }
+     ]
+    },
+    {
+     "id": "chistopol",
+     "name": "Чистополь",
+     "lat": 55.3661,
+     "lng": 50.644,
+     "radiusKm": 60,
+     "tables": [
+      {
+       "year": 2025,
+       "path": "ru-tatarstan/chistopol/2025.json",
+       "start": "2025-01-01",
+       "days": 365,
+       "hash": "3b7aa455657a0c0720e4b4796f0fc7cb77abf588"
+      },
+      {
+       "year": 2026,
+       "path": "ru-tatarstan/chistopol/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "7fd4094611a8419ce2bcd49e3b81b60d403d8891"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ru-dagestan",
+   "name": "Муфтият РД",
+   "name_en": "Muftiate of Dagestan",
+   "country": "RU",
+   "regions": [
+    "дагест",
+    "dagest"
+   ],
+   "utcOffset": 180,
+   "fallback": {
+    "kind": "aladhan",
+    "method": 14,
+    "school": "shafi"
+   },
+   "source": "https://muftiyatrd.ru/",
+   "places": [
+    {
+     "id": "mahashkala",
+     "name": "Махачкала",
+     "lat": 42.9778,
+     "lng": 47.5003,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/mahashkala/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "84baefae61b0485a06fe063110bb0041d3d0cab7"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/mahashkala/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "dcfd1a0f9aaa5f14487e4745ee0c3ebabe774630"
+      }
+     ]
+    },
+    {
+     "id": "agul",
+     "name": "Агульский район (Тпиг)",
+     "lat": 41.7806,
+     "lng": 47.5891,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/agul/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "f59357a3fdd00472afefa701bf231a2ec235d34d"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/agul/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "dfdfe9afc79775423117c7fadfafb8949c73640a"
+      }
+     ]
+    },
+    {
+     "id": "ahti",
+     "name": "Ахты",
+     "lat": 41.4595,
+     "lng": 47.7325,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/ahti/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "2b82fbde0559969a6ac6846947aed031b7de1b28"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/ahti/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "ef947c1569c3b2dda5b9dc0d16ed90db51068fc6"
+      }
+     ]
+    },
+    {
+     "id": "ahvah",
+     "name": "Ахвахский район (Карата)",
+     "lat": 42.5945,
+     "lng": 46.3405,
+     "radiusKm": 50,
+     "tables": []
+    },
+    {
+     "id": "babayurt",
+     "name": "Бабаюрт",
+     "lat": 43.5998,
+     "lng": 46.7781,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/babayurt/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "02cacd2e3c5c90e632436057cff31e1a64e15067"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/babayurt/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "7a1800c1b2de5714fea8c28375c79e0c23f946fd"
+      }
+     ]
+    },
+    {
+     "id": "botlih",
+     "name": "Ботлих",
+     "lat": 42.6653,
+     "lng": 46.2203,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/botlih/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "767eca3986d29f912fdf439c2cb0a7f6d7709333"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/botlih/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "88ffe6979ae4198466bc4c8221ff17b57f033189"
+      }
+     ]
+    },
+    {
+     "id": "buynaksk",
+     "name": "Буйнакск",
+     "lat": 42.818,
+     "lng": 47.1268,
+     "radiusKm": 50,
+     "tables": []
+    },
+    {
+     "id": "cumada",
+     "name": "Цумадинский район (Агвали)",
+     "lat": 42.538,
+     "lng": 46.1252,
+     "radiusKm": 50,
+     "tables": []
+    },
+    {
+     "id": "dagogni",
+     "name": "Дагестанские Огни",
+     "lat": 42.1159,
+     "lng": 48.1919,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/dagogni/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "fcd21f7b862e73e8dffaffb096fbe21b2f98626d"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/dagogni/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "7b3587b39269703e87ef5f3fbfacb23b8e0b510f"
+      }
+     ]
+    },
+    {
+     "id": "derbent",
+     "name": "Дербент",
+     "lat": 42.0662,
+     "lng": 48.2876,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/derbent/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "b5e85ae0c62ed9eef1ed0fbfd0e2e1e7e372dda1"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/derbent/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "74dcc9a05ce54c2e88005b70f26c964cace00c96"
+      }
+     ]
+    },
+    {
+     "id": "dokuzparinsk",
+     "name": "Докузпаринский район (Усухчай)",
+     "lat": 41.4224,
+     "lng": 47.9132,
+     "radiusKm": 50,
+     "tables": []
+    },
+    {
+     "id": "gergebil",
+     "name": "Гергебиль",
+     "lat": 42.5047,
+     "lng": 47.0661,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/gergebil/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "fc62097035338d2cfa1bbe60160df3b74932530a"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/gergebil/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "e0e49ed4f5ccb0aa7d611afd3eac26a7910ba178"
+      }
+     ]
+    },
+    {
+     "id": "gumbet",
+     "name": "Гумбетовский район (Мехельта)",
+     "lat": 42.7909,
+     "lng": 46.4942,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/gumbet/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "055a5a894f9f3ffe1d2c9841148c88a8becc622b"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/gumbet/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "9fc4eb1557aaf1204d63b156bedda983cfb276ce"
+      }
+     ]
+    },
+    {
+     "id": "hasavyurt",
+     "name": "Хасавюрт",
+     "lat": 43.2487,
+     "lng": 46.5857,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/hasavyurt/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "00656e4b8e3aa6d0a99ddc64a9ec9d156c7c8556"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/hasavyurt/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "606158f5703f88a281f44c8e1c536c32fcf2dad9"
+      }
+     ]
+    },
+    {
+     "id": "hunzah",
+     "name": "Хунзах",
+     "lat": 42.5429,
+     "lng": 46.706,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/hunzah/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "fcf71153ff4b4eaa3f41e05705b861b4567ad9df"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/hunzah/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "e3409ff8389c853984722cf8b48668a915a35485"
+      }
+     ]
+    },
+    {
+     "id": "izberbash",
+     "name": "Избербаш",
+     "lat": 42.5671,
+     "lng": 47.8755,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/izberbash/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "f5e76312309bf136c638a4eac1554e3cd6451b93"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/izberbash/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "9cfafb1626edab6b086848f8411b70b0c8cdf720"
+      }
+     ]
+    },
+    {
+     "id": "kaspiysk",
+     "name": "Каспийск",
+     "lat": 42.8817,
+     "lng": 47.6392,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/kaspiysk/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "f9a3b454ffbee5193928bf8d12ba6d4c23917225"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/kaspiysk/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "2b46261f83bcc5050aa43d7f2c43857470003457"
+      }
+     ]
+    },
+    {
+     "id": "kazbek",
+     "name": "Казбековский район (Дылым)",
+     "lat": 43.071,
+     "lng": 46.6345,
+     "radiusKm": 50,
+     "tables": []
+    },
+    {
+     "id": "kizilurt",
+     "name": "Кизилюрт",
+     "lat": 43.2028,
+     "lng": 46.8659,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/kizilurt/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "4903067dcdf963bf11ae3faa1a178ec65147fc4b"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/kizilurt/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "f9217df0548293d653019feac5cc1345dc21adeb"
+      }
+     ]
+    },
+    {
+     "id": "kizlyar",
+     "name": "Кизляр",
+     "lat": 43.8469,
+     "lng": 46.7098,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/kizlyar/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "c6e6ecbf35bcefce17ccee8d0d630fcb9d43aab7"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/kizlyar/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "2e23395c138b22862197d9ed4f81a0c615f67536"
+      }
+     ]
+    },
+    {
+     "id": "kurah",
+     "name": "Курах",
+     "lat": 41.5849,
+     "lng": 47.7821,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/kurah/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "ab86b408a3b358366af35e56ccaa9c5e01ade7a8"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/kurah/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "beecc99d8eea4627c74405df6b24107f8a060684"
+      }
+     ]
+    },
+    {
+     "id": "levashi",
+     "name": "Леваши",
+     "lat": 42.4322,
+     "lng": 47.3237,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/levashi/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "afbbf387d00867af6fe3fbf49411a5d63e3396fa"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/levashi/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "8aea5333ccf9fb48089185d53be0dab0ac6b1d29"
+      }
+     ]
+    },
+    {
+     "id": "rutul",
+     "name": "Рутул",
+     "lat": 41.5344,
+     "lng": 47.424,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/rutul/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "e165a02e289b6e17ff6dc6b3652a76042666f2fa"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/rutul/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "38b992bdbe41f354c5a80fe3fecafdf0bd60689e"
+      }
+     ]
+    },
+    {
+     "id": "shamilkala",
+     "name": "Шамилькала",
+     "lat": 42.6871,
+     "lng": 46.8685,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/shamilkala/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "aab75fb0b38cdb212d6f50780be8f7b45c5c0a2b"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/shamilkala/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "7f318764313b01ef3e4d199f23599cd07b30c078"
+      }
+     ]
+    },
+    {
+     "id": "sharoda",
+     "name": "Чародинский район (Цуриб)",
+     "lat": 42.2383,
+     "lng": 46.8343,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/sharoda/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "56284a62a9aad8f509f5e6c0d718871ca61e64d0"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/sharoda/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "4fdb1b140b9e5e7a45ba657f615e091c7a2589a4"
+      }
+     ]
+    },
+    {
+     "id": "suhokumsk",
+     "name": "Южно-Сухокумск",
+     "lat": 44.6603,
+     "lng": 45.6475,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/suhokumsk/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "e15b47506f22685123e8d3727a1fa73f0bd6e246"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/suhokumsk/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "17813bf9b3fda78ca4741469cb5e20ba96f39282"
+      }
+     ]
+    },
+    {
+     "id": "tlarata",
+     "name": "Тлярата",
+     "lat": 42.1055,
+     "lng": 46.3542,
+     "radiusKm": 50,
+     "tables": []
+    },
+    {
+     "id": "unsukul",
+     "name": "Унцукуль",
+     "lat": 42.7115,
+     "lng": 46.7866,
+     "radiusKm": 50,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-dagestan/unsukul/2026.json",
+       "start": "2026-01-01",
+       "days": 365,
+       "hash": "73656768964d902dfc424cd53dae557323163838"
+      },
+      {
+       "year": 2027,
+       "path": "ru-dagestan/unsukul/2027.json",
+       "start": "2027-01-01",
+       "days": 365,
+       "hash": "acf03076baacf123e397496b3de95871c9bd30a2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ru-moscow",
+   "name": "ДУМ РФ",
+   "name_en": "Spiritual Administration of Muslims of Russia",
+   "country": "RU",
+   "regions": [
+    "моск",
+    "moscow"
+   ],
+   "utcOffset": 180,
+   "fallback": {
+    "kind": "aladhan",
+    "method": 14,
+    "school": "hanafi"
+   },
+   "source": "https://dumrf.ru/",
+   "places": [
+    {
+     "id": "moscow",
+     "name": "Москва и Московская область",
+     "lat": 55.7558,
+     "lng": 37.6173,
+     "radiusKm": 120,
+     "tables": [
+      {
+       "year": 2026,
+       "path": "ru-moscow/moscow/2026.json",
+       "start": "2026-10-01",
+       "days": 61,
+       "hash": "13d8f9eccee63293acc7a6151afef21896efbacf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

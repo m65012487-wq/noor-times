@@ -1,0 +1,70 @@
+name: Сбор графиков
+
+on:
+  schedule:
+    # Каждый день в 05:17 по Москве: ДУМ обновляют сайты днём, а к утру
+    # приложение уже получит свежие таблицы.
+    - cron: '17 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install -r requirements.txt pytest
+
+      - name: Тесты
+        run: python -m pytest -q tests
+
+      # Сбой одного источника не мешает остальным: исправные таблицы
+      # записываются и публикуются, а запуск в конце помечается неудачным,
+      # чтобы GitHub прислал письмо.
+      - name: Сбор
+        id: collect
+        continue-on-error: true
+        run: python -m sources.run
+
+      - name: Сохранить данные
+        run: |
+          git config user.name 'noor-times'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site
+          if ! git diff --cached --quiet; then
+            git commit -m "Графики: обновление $(date -u +%F)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+      - name: Итог сбора
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo "Часть сборщиков упала — подробности в шаге «Сбор»."
+          exit 1
