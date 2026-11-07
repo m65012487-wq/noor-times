@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-10-09T15:00:17Z",
+ "generated": "2026-11-07T08:50:40Z",
  "authorities": [
   {
    "id": "ru-kbr",
@@ -1753,7 +1753,7 @@
        "path": "kz-dumk/karaganda/2026.json",
        "start": "2026-01-01",
        "days": 365,
-       "hash": "797d52b86df6f69c4d29ad476be021640eeb2c58"
+       "hash": "1f0aecae1946d54ccd599d0bcabe9c208417a4ba"
       },
       {
        "year": 2027,
