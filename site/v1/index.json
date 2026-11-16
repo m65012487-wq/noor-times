@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-11-12T09:55:18Z",
+ "generated": "2026-11-16T09:46:50Z",
  "authorities": [
   {
    "id": "ru-kbr",
@@ -2082,7 +2082,7 @@
        "path": "kz-dumk/taldykorgan/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "16051e480de262c122fd0f9211e2dc01bca66b69"
+       "hash": "7bf06f038ae254cc7d567334ca8d4e79df9fafef"
       }
      ]
     },
