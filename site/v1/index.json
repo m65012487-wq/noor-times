@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-11-20T10:05:07Z",
+ "generated": "2026-11-23T10:50:10Z",
  "authorities": [
   {
    "id": "ru-kbr",
@@ -1714,7 +1714,7 @@
        "path": "kz-dumk/almaty/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "afdae90d0efcb56f5433ea604d53d725bfe48824"
+       "hash": "a0f18c4cc1aede70d4193e27c4b7b825397f7bf9"
       }
      ]
     },
