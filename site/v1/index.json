@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-11-26T10:57:28Z",
+ "generated": "2026-11-27T10:55:04Z",
  "authorities": [
   {
    "id": "ru-kbr",
@@ -2059,7 +2059,7 @@
        "path": "kz-dumk/kokshetau/2027.json",
        "start": "2027-01-01",
        "days": 365,
-       "hash": "99d98ddd27fb64a8515ae4a87a113a254a206b6e"
+       "hash": "fce5a81e1df924ef98dce441344a7ad70cb4d8c9"
       }
      ]
     },
